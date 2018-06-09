@@ -1,0 +1,11 @@
+{
+    "$schema": "http://json.schemastore.org/proxies",
+    "proxies": {
+        "root": {
+            "matchCondition": {
+                "route": "/"
+            },
+            "backendUri": "https://jaehoon.azurewebsites.net/api/HttpTriggerJS1"
+        }
+    }
+}

@@ -1,0 +1,17 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "WEBSITE_SLOT_NAME": "Production",
+    "FUNCTIONS_EXTENSION_VERSION": "beta",
+    "ScmType": "None",
+    "WEBSITE_AUTH_ENABLED": "False",
+    "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=jaehoon0126;AccountKey=/3lcd/KK+yxG6ViCpFvA3nuHvhj6KlrA5UZhGl4b3uVJsxs+E/AtRKdC3aleDGTPv0uJu9BFrAth9rGRtWLogw==",
+    "STATIC_FILE_STORAGE": "https://jaehoon0126.blob.core.windows.net/static",
+    "WEBSITE_NODE_DEFAULT_VERSION": "8.9.4",
+    "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=jaehoon0126;AccountKey=/3lcd/KK+yxG6ViCpFvA3nuHvhj6KlrA5UZhGl4b3uVJsxs+E/AtRKdC3aleDGTPv0uJu9BFrAth9rGRtWLogw==",
+    "COGNITIVE_SERVICE_API_KEY": "422d37c6516141c7abf248b1d58c336e",
+    "WEBSITE_CONTENTSHARE": "jaehoon8351",
+    "WEBSITE_SITE_NAME": "jaehoon",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=jaehoon0126;AccountKey=/3lcd/KK+yxG6ViCpFvA3nuHvhj6KlrA5UZhGl4b3uVJsxs+E/AtRKdC3aleDGTPv0uJu9BFrAth9rGRtWLogw=="
+  }
+}
